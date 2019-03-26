@@ -1,0 +1,1 @@
+git diff HEAD~1 - aponta pro que voce tem na pasta com o ultimo commit feito
