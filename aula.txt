@@ -8,3 +8,5 @@ git cheackout HEAD -- <arquivo> elimina as mudancas no estatus de envio
 
 git revert <commit> - cria um novo commit que desfaz as alteracoes do commit citado
 
+git branch <nome da nova branch>
+git checkout branch cria nova brench
