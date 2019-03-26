@@ -1,3 +1,10 @@
 pull - baixa os arquivos do repositorio principal
 psuh - envia os arquivos pro repositorio principal
-	
+
+git checkout <numero do commit> te leva até o commit com os arquivos que 
+havim naquele commit
+git checkout -- <arquivo> elimina as mudancas realizadas naquele arquivo
+git cheackout HEAD -- <arquivo> elimina as mudancas no estatus de envio	
+
+git revert <commit> - cria um novo commit que desfaz as alteracoes do commit citado
+
