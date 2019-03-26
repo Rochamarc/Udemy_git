@@ -1,0 +1,3 @@
+pull - baixa os arquivos do repositorio principal
+psuh - envia os arquivos pro repositorio principal
+	
